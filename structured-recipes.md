@@ -27,3 +27,9 @@ Possibilities that open up once such a format is available:
 - Allow comments on each step, show top ranked by default - "If you're using a cast iron pan, saute for 5 minutes extra."
 - Fork/Remix recipes
 - Allow 'order now' buttons on recipes, a programmatic foundation for 'ready to cook recipe pack' services like http://www.cookgourmet.co/, https://www.ezycook.in/
+
+### Related
+
+- https://cookpad.com/in
+- https://www.yummly.co/
+- http://www.epicurious.com/
