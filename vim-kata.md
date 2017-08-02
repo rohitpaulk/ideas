@@ -8,3 +8,7 @@
 - Answers represented in a textual format (like in Practical Vim), with the option for explanations
 - Answers can be voted on, like in Codewars
 - Users can create Kata, like in Codewars 
+
+Related: 
+
+- https://vimgolf.com/
