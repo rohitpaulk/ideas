@@ -6,7 +6,7 @@ I often have to fork github repositories just to send a single PR, and forget to
 - Shows you a list of stale forks along with **why** they are stale.
 - Multiple 'strategies' can be applied for considering repositories as stale
   - Has no open PRs + no additional commits that aren't present upstream
-  - Has no open PRs, might had additional commits
+  - Has no open PRs, but has unmerged commits
   - Has open PRs, but they've been dormant for > `x` days
   - You're now a collaborator on the original repository
 - Multi-select to filter out the ones you want to delete. Done!
