@@ -16,7 +16,7 @@ serve as that month's 'salary'.
 
 The tool could have the following:
 
-- A calculater that would:
+- A calculator that would:
   - Accept the following inputs:
       - Income. Either as an average rate, or extrapolated from previous months
       - Target salary
